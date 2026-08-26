@@ -77,40 +77,8 @@ Solutions and implementations covering algorithms and data structures.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArpitDoof&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitDoof&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ArpitDoof&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ArpitDoof/ArpitDoof/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
-
-</div>
-
-> This animated snake "eats" your contribution graph. It needs a tiny one-time setup — a GitHub Action that regenerates the SVG daily. Add [`platane/snk`](https://github.com/Platane/snk) as a workflow in this repo and it'll render automatically here; ask me for the exact workflow file if you'd like it added.
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArpitDoof&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+[![Followers](https://img.shields.io/github/followers/ArpitDoof?label=Followers&style=for-the-badge&color=58A6FF&logo=github&logoColor=white)](https://github.com/ArpitDoof)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ArpitDoof&label=Repos&query=public_repos&color=58A6FF&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitDoof?tab=repositories)
 
 </div>
 
