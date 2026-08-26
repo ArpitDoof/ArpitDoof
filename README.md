@@ -1,27 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:0d1117&height=200&section=header&text=Hi%20There,%20I'm%20Arpit%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20CSE%20@%20IIT%20Bombay%20|%20Systems%20·%20ML%20·%20Algorithms&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:0d1117&height=200&section=header&text=Hi%20There,%20I'm%20Arpit%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20CSE%20@%20IIT%20Bombay%20|%20Systems%20·%20Low-Level%20C%20·%20Algorithms&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/ArpitDoof">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=M.Tech+CSE+%40+IIT+Bombay;Systems+%7C+Machine+Learning+%7C+Algorithms;Building%2C+breaking%2C+and+learning+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=M.Tech+CSE+Student+%40+IIT+Bombay;Low-Level+%26+Systems+Programming;Building%2C+breaking%2C+and+learning+every+day" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-I'm a Computer Science graduate currently pursuing my **M.Tech in Computer Science and Engineering at IIT Bombay**.
-I'm interested in **Systems, Machine Learning, Algorithms, and Software Engineering**, and I enjoy understanding how things work under the hood.
+I'm currently pursuing my **M.Tech in Computer Science and Engineering at IIT Bombay**.
+I'm interested in **Systems Programming, Low-Level C, Algorithms, and Software Engineering**, and I enjoy understanding how things work under the hood.
+
+## 📱 Connect with me:
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-kushwaha-467b2a130)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ArpitDoof/)
+[![GitHub Followers](https://img.shields.io/github/followers/ArpitDoof?label=Followers&style=for-the-badge&color=181717&logo=github&logoColor=white)](https://github.com/ArpitDoof)
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🎓 M.Tech in Computer Science & Engineering — **IIT Bombay**
-- 💻 Interested in **Computer Systems, Machine Learning & Algorithms**
+- 💻 Interested in **Computer Systems, Low-Level C Programming & Algorithms**
 - 🐧 Currently exploring **Linux, Operating Systems & Systems Programming**
-- 🧠 Learning and working with **C/C++, Python & Machine Learning**
-- 🔧 Currently working with **Git, Docker, Linux & development tools**
+- ⚙️ Comfortable working close to the metal — **memory, processes, and system calls**
+- 🔧 Currently working with **Git, Docker, Linux, Shell scripting & development tools**
 - 🚀 Always building, experimenting and learning something new
 
 ---
@@ -36,10 +46,9 @@ I'm interested in **Systems, Machine Learning, Algorithms, and Software Engineer
 ### ⚙️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode" alt="Tools" />
 
-### 🤖 Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Machine Learning" />
-
 </div>
+
+> 🔩 Especially comfortable with **low-level C** — pointers, memory management, and systems-level programming.
 
 ---
 
@@ -47,9 +56,9 @@ I'm interested in **Systems, Machine Learning, Algorithms, and Software Engineer
 
 - 🖥️ Operating Systems
 - ⚙️ Computer Systems
-- 🧠 Machine Learning
+- 🔩 Low-Level C & Systems Programming
 - 🧮 Algorithms & Complexity
-- 🐧 Linux & Systems Programming
+- 🐧 Linux Internals
 - 🐳 Docker & Development Environments
 
 ---
@@ -59,8 +68,8 @@ I'm interested in **Systems, Machine Learning, Algorithms, and Software Engineer
 **🖥️ xv6 / Operating Systems**
 Exploring and modifying **xv6**, working with processes, system calls, memory management and other OS concepts.
 
-**🤖 Machine Learning Projects**
-Implementing and experimenting with fundamental Machine Learning concepts and algorithms.
+**🔩 Low-Level C Programming**
+Writing and experimenting with memory-level C — pointers, custom allocators, and systems-level utilities.
 
 **💻 DSA & Competitive Programming**
 Solutions and implementations covering algorithms and data structures.
@@ -77,7 +86,6 @@ Solutions and implementations covering algorithms and data structures.
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/ArpitDoof?label=Followers&style=for-the-badge&color=58A6FF&logo=github&logoColor=white)](https://github.com/ArpitDoof)
 [![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ArpitDoof&label=Repos&query=public_repos&color=58A6FF&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitDoof?tab=repositories)
 
 </div>
@@ -89,16 +97,6 @@ Solutions and implementations covering algorithms and data structures.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker" alt="IDE & Tools" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ArpitDoof-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitDoof)
 
 </div>
 
