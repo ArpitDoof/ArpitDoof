@@ -119,3 +119,6 @@ Solutions and implementations covering algorithms and data structures.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e2327&height=100&section=footer" width="100%"/>
 
 </div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
