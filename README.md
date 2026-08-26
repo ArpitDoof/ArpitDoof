@@ -1,9 +1,16 @@
-# 👋 Hi, I'm Arpit Kumar Kushwaha
+<div align="center">
 
-### 🎓 M.Tech CSE @ IIT Bombay | 💻 Computer Science | 🚀 Building & Learning
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:0d1117&height=200&section=header&text=Hi%20There,%20I'm%20Arpit%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20CSE%20@%20IIT%20Bombay%20|%20Systems%20·%20ML%20·%20Algorithms&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://github.com/ArpitDoof">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=M.Tech+CSE+%40+IIT+Bombay;Systems+%7C+Machine+Learning+%7C+Algorithms;Building%2C+breaking%2C+and+learning+every+day" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
 
 I'm a Computer Science graduate currently pursuing my **M.Tech in Computer Science and Engineering at IIT Bombay**.
-
 I'm interested in **Systems, Machine Learning, Algorithms, and Software Engineering**, and I enjoy understanding how things work under the hood.
 
 ---
@@ -21,23 +28,18 @@ I'm interested in **Systems, Machine Learning, Algorithms, and Software Engineer
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
-</p>
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" alt="Languages" />
 
 ### ⚙️ Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode" alt="Tools" />
 
 ### 🤖 Machine Learning
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Machine Learning" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
+</div>
 
 ---
 
@@ -54,67 +56,92 @@ I'm interested in **Systems, Machine Learning, Algorithms, and Software Engineer
 
 ## 🚀 Featured Projects
 
-Here are some of the projects I've worked on:
-
-### 🖥️ xv6 / Operating Systems
-
+**🖥️ xv6 / Operating Systems**
 Exploring and modifying **xv6**, working with processes, system calls, memory management and other OS concepts.
 
-### 🤖 Machine Learning Projects
-
+**🤖 Machine Learning Projects**
 Implementing and experimenting with fundamental Machine Learning concepts and algorithms.
 
-### 💻 DSA & Competitive Programming
-
+**💻 DSA & Competitive Programming**
 Solutions and implementations covering algorithms and data structures.
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/More%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitDoof?tab=repositories)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitDoof&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitDoof&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArpitDoof&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitDoof&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ArpitDoof&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ArpitDoof&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-## 📈 GitHub Activity
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitDoof&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ArpitDoof/ArpitDoof/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+
+</div>
+
+> This animated snake "eats" your contribution graph. It needs a tiny one-time setup — a GitHub Action that regenerates the SVG daily. Add [`platane/snk`](https://github.com/Platane/snk) as a workflow in this repo and it'll render automatically here; ask me for the exact workflow file if you'd like it added.
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArpitDoof&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
 ## 🧰 IDE & Development Environment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker" alt="IDE & Tools" />
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p>
-  <a href="https://github.com/ArpitDoof">
-    <img src="https://img.shields.io/badge/GitHub-ArpitDoof-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ArpitDoof-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitDoof)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>“The best way to learn is to build.”</i>
-</p>
+<div align="center">
+
+*"The best way to learn is to build."*
+
+<img src="https://komarev.com/ghpvc/?username=ArpitDoof&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e2327&height=100&section=footer" width="100%"/>
+
+</div>
