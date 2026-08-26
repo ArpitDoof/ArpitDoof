@@ -102,11 +102,19 @@ Solutions and implementations covering algorithms and data structures.
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ArpitDoof/ArpitDoof/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+
+</div>
+
+---
+
 <div align="center">
 
 *"The best way to learn is to build."*
-
-<img src="https://komarev.com/ghpvc/?username=ArpitDoof&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e2327&height=100&section=footer" width="100%"/>
 
