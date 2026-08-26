@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:0d1117&height=200&section=header&text=Hi%20There,%20I'm%20Arpit%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20CSE%20@%20IIT%20Bombay%20|%20Systems%20·%20Low-Level%20C%20·%20Algorithms&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:0d1117&height=200&section=header&text=Hi%20There,%20I'm%20Arpit%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20CSE%20@%20IIT%20Bombay%20|%20Systems%20·%20Low-Level%20C%20·%20Machine_Learning%20.%20Algorithms&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/ArpitDoof">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=M.Tech+CSE+Student+%40+IIT+Bombay;Low-Level+%26+Systems+Programming;Building%2C+breaking%2C+and+learning+every+day" alt="Typing SVG" />
