@@ -11,7 +11,7 @@
 <br/>
 
 I'm currently pursuing my **M.Tech in Computer Science and Engineering at IIT Bombay**.
-I'm interested in **Systems Programming, Low-Level C, Algorithms, and Software Engineering**, and I enjoy understanding how things work under the hood.
+I'm interested in ** Machine Learning, Probabilistic models, Systems Programming, Algorithms, and Software Engineering**, and I enjoy understanding how things work under the hood.
 
 ## 📱 Connect with me:
 
@@ -19,7 +19,7 @@ I'm interested in **Systems Programming, Low-Level C, Algorithms, and Software E
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-kushwaha-467b2a130)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ArpitDoof/)
-[![GitHub Followers](https://img.shields.io/github/followers/ArpitDoof?label=Followers&style=for-the-badge&color=181717&logo=github&logoColor=white)](https://github.com/ArpitDoof)
+
 
 </div>
 
@@ -28,10 +28,9 @@ I'm interested in **Systems Programming, Low-Level C, Algorithms, and Software E
 ## 🧑‍💻 About Me
 
 - 🎓 M.Tech in Computer Science & Engineering — **IIT Bombay**
-- 💻 Interested in **Computer Systems, Low-Level C Programming & Algorithms**
-- 🐧 Currently exploring **Linux, Operating Systems & Systems Programming**
-- ⚙️ Comfortable working close to the metal — **memory, processes, and system calls**
-- 🔧 Currently working with **Git, Docker, Linux, Shell scripting & development tools**
+- 💻 Interested in **Machine Leaning, Computer Systems, Low-Level C Programming & Algorithms**
+- 🐧 Currently exploring **ML Algorithms, Linux, Operating Systems & Systems Programming**
+- 🔧 Currently working with **Python, Numpy, Git, Docker, Linux, Shell scripting & development tools**
 - 🚀 Always building, experimenting and learning something new
 
 ---
