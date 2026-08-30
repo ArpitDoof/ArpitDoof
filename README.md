@@ -11,7 +11,7 @@
 <br/>
 
 I'm currently pursuing my **M.Tech in Computer Science and Engineering at IIT Bombay**.
-I'm interested in ** Machine Learning, Probabilistic models, Systems Programming, Algorithms, and Software Engineering**, and I enjoy understanding how things work under the hood.
+I'm interested in **Machine Learning, Probabilistic models, Systems Programming, Algorithms, and Software Engineering**, and I enjoy understanding how things work under the hood.
 
 ## 📱 Connect with me:
 
@@ -65,13 +65,13 @@ I'm interested in ** Machine Learning, Probabilistic models, Systems Programming
 ## 🚀 Featured Projects
 
 **🖥️ xv6 / Operating Systems**
-Exploring and modifying **xv6**, working with processes, system calls, memory management and other OS concepts.
+*Exploring and modifying **xv6**, working with processes, system calls, memory management and other OS concepts*.
 
 **🔩 Low-Level C Programming**
-Writing and experimenting with memory-level C — pointers, custom allocators, and systems-level utilities.
+*Writing and experimenting with memory-level C — pointers, custom allocators, and systems-level utilities*.
 
 **💻 DSA & Competitive Programming**
-Solutions and implementations covering algorithms and data structures.
+*Solutions and implementations covering algorithms and data structures*.
 
 <div align="center">
 
